@@ -1,6 +1,8 @@
+## TIME W3
+
 <img align="right" src="statics/patrick-100.png" width="100px" />
 
-## PATRICK MONTEIRO
+### PATRICK MONTEIRO
 
 Arquiteto Front-end
 
@@ -13,7 +15,7 @@ ____
 
 <img align="right" src="statics/rafael-100.png" width="100px" />
 
-## RAFAEL DIAS
+### RAFAEL DIAS
 
 Desenvolvedor Full-Stack
 
