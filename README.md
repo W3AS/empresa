@@ -1,3 +1,5 @@
+<img align="left" src="statics/logo-w3-500x500.png" width="150px" />
+
 ## Bem vindo a W3 Automação e Sistemas
 
 Nossa empresa é especializada no desenvolvimento de Soluções de TI, e utiliza as arquiteturas de software mais modernas aplicadas no mercado atual de informática.
