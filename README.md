@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+## Bem vindo a W3 Automação e Sistemas
 
-You can use the [editor on GitHub](https://github.com/W3AS/empresa/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Nossa empresa é especializada no desenvolvimento de Soluções de TI, e utiliza as arquiteturas de software mais modernas aplicadas no mercado atual de informática.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Quem somos
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Fundada em maio de 2005 por profissionais com larga experiência na área de Tecnologia da Informação, a W3 Automação e Sistemas, tornou-se uma empresa fornecedora de soluções para automação comercial e bancária, dedicada ao desenvolvimento de sistemas e soluções empresariais.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Serviços
+- **Consultoria**
+  - Projetos técnicos e consultoria especializada na aplicação da tecnologia da informação aos negócios. Atualização tecnológica, contratação de serviços e sistemas de gestão, elaboração de projetos de software, gerenciamento de projetos.
+- **Desenvolvimento**
+  - Contamos com equipes de desenvolvimento lideradas por profissionais em constante aperfeiçoamento técnico nas ferramentas e sistemas operacionais compatíveis com nossos produtos.
+- **Desenvolvimento de sistemas personalizados**
+  - Sistemas Web 
+  - E-business 
+  - Integração com web services 
+  - Conversão de sistemas
+- **Implantação e Treinamento de Sistemas**
+  - Tutoriais , Help On-Line e um Método de Ensino Dirigido, ministrado por instrutores com larga experiência em Automação, garantem o perfeito entendimento das funcionalidades e rotinas e sua perfeita integração ao dia a dia de empresas comerciais de segmentos mais distintos.
+- **Soluções**
+  - Nossos produtos abrangem as empresas em geral que possuam interesse em automatizar seus processos de informática.
+- **Hospedagem**
+  - Planos de hospedagem de sites, com segurança e velocidade, em servidores Linux e Windows.
+- **Manutenção**
+  - Instalação e configuração de redes, computadores, impressoras, programas diversos e sistemas operacionais.
 
-- Bulleted
-- List
+### Time
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/W3AS/empresa/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Conheça nosso time.
