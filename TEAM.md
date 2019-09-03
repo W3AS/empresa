@@ -24,3 +24,10 @@ Desenvolvedor Full-Stack
 
 > Stack: .NET, .NET Core, Javascript, Node.js, Quasar Framework, Vue.js, Docker, Kong, Jenkins, SQL, Dapper, Entity
 
+____
+
+### Marcio
+
+Desenvolvedor Full-Stack
+
+
