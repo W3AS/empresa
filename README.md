@@ -33,4 +33,4 @@ Fundada em maio de 2005 por profissionais com larga experiência na área de Tec
 
 ### Time
 
-Conheça nosso time.
+Conheça nosso [Time](TEAM.md).
