@@ -1,4 +1,30 @@
-## TIME W3
+# TIME W3
+
+## 🎯 LÍDERES
+<img align="right" src="statics/marcio-100.png" width="100px" />
+
+### LUIZ MÁRCIO ANJOS
+
+CEO
+
+[Linkedin](https://www.linkedin.com/in/luiz-m%C3%A1rcio-anjos-a186b5155/)
+
+____
+
+<img align="right" src="statics/fabio-magalhaes-100.png" width="100px" />
+
+### LUIS FÁBIO MAGALHÃES
+
+Arquiteto de software
+
+[Linkedin](https://www.linkedin.com/in/luiz-m%C3%A1rcio-anjos-a186b5155/)
+
+____
+
+<br>
+
+## 💻 DESENVOLVEDORES
+
 
 <img align="right" src="statics/patrick-100.png" width="100px" />
 
@@ -26,8 +52,6 @@ Desenvolvedor Full-Stack
 
 ____
 
-### Marcio
-
-Desenvolvedor Full-Stack
-
+## 💡 REQUISITOS E NEGÓCIOS
+## 🔧 TESTES
 

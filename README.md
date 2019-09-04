@@ -1,10 +1,14 @@
 <img align="right" src="statics/logo-w3-500x500.png" width="100px" />
 
-## Bem vindo a W3 Automação e Sistemas
+## Bem vindo a W3 Automação e Sistemas 🏢
 
 <br>
 
 Nossa empresa é especializada no desenvolvimento de Soluções de TI, e utiliza as arquiteturas de software mais modernas aplicadas no mercado atual de informática.
+
+- [Quem Somos](#Quem-Somos)
+- [Serviços](#Serviços)
+- [Nosso Time](#Time)
 
 
 ### Quem somos
@@ -12,25 +16,25 @@ Nossa empresa é especializada no desenvolvimento de Soluções de TI, e utiliza
 Fundada em maio de 2005 por profissionais com larga experiência na área de Tecnologia da Informação, a W3 Automação e Sistemas, tornou-se uma empresa fornecedora de soluções para automação comercial e bancária, dedicada ao desenvolvimento de sistemas e soluções empresariais.
 
 
-### Serviços
-- **Consultoria**
+### Serviços 💻
+- 📈 **Consultoria**
   - Projetos técnicos e consultoria especializada na aplicação da tecnologia da informação aos negócios. Atualização tecnológica, contratação de serviços e sistemas de gestão, elaboração de projetos de software, gerenciamento de projetos.
-- **Desenvolvimento**
+- 💻 **Desenvolvimento**
   - Contamos com equipes de desenvolvimento lideradas por profissionais em constante aperfeiçoamento técnico nas ferramentas e sistemas operacionais compatíveis com nossos produtos.
-- **Desenvolvimento de sistemas personalizados**
+- 📱 **Desenvolvimento de sistemas personalizados**
   - Sistemas Web 
   - E-business 
   - Integração com web services 
   - Conversão de sistemas
-- **Implantação e Treinamento de Sistemas**
+- 🔨 **Implantação e Treinamento de Sistemas**
   - Tutoriais , Help On-Line e um Método de Ensino Dirigido, ministrado por instrutores com larga experiência em Automação, garantem o perfeito entendimento das funcionalidades e rotinas e sua perfeita integração ao dia a dia de empresas comerciais de segmentos mais distintos.
-- **Soluções**
+- ✏️ **Soluções**
   - Nossos produtos abrangem as empresas em geral que possuam interesse em automatizar seus processos de informática.
-- **Hospedagem**
+- 🌐 **Hospedagem**
   - Planos de hospedagem de sites, com segurança e velocidade, em servidores Linux e Windows.
-- **Manutenção**
+- 🔧 **Manutenção**
   - Instalação e configuração de redes, computadores, impressoras, programas diversos e sistemas operacionais.
 
-### Time
+### Time 👨👩
 
 Conheça nosso [Time](TEAM.md).
