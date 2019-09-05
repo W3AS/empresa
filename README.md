@@ -8,7 +8,7 @@ Nossa empresa é especializada no desenvolvimento de Soluções de TI, e utiliza
 
 - [Quem Somos](#Quem-Somos)
 - [Serviços](#Serviços)
-- [Nosso Time](#Time)
+<!-- - [Nosso Time](#Nosso-Time) -->
 
 
 ### Quem somos
@@ -16,7 +16,7 @@ Nossa empresa é especializada no desenvolvimento de Soluções de TI, e utiliza
 Fundada em maio de 2005 por profissionais com larga experiência na área de Tecnologia da Informação, a W3 Automação e Sistemas, tornou-se uma empresa fornecedora de soluções para automação comercial e bancária, dedicada ao desenvolvimento de sistemas e soluções empresariais.
 
 
-### Serviços 💻
+### Serviços
 - 📈 **Consultoria**
   - Projetos técnicos e consultoria especializada na aplicação da tecnologia da informação aos negócios. Atualização tecnológica, contratação de serviços e sistemas de gestão, elaboração de projetos de software, gerenciamento de projetos.
 - 💻 **Desenvolvimento**
@@ -35,6 +35,6 @@ Fundada em maio de 2005 por profissionais com larga experiência na área de Tec
 - 🔧 **Manutenção**
   - Instalação e configuração de redes, computadores, impressoras, programas diversos e sistemas operacionais.
 
-### Time 👨👩
+<!-- ### Nosso Time
 
-Conheça nosso [Time](TEAM.md).
+Conheça nosso [Time](TEAM.md). -->
